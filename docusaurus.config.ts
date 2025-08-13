@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Huntr One Documentation',
+  title: 'Huntr On Documentation',
   tagline: 'Official docs for huntr.one',
   favicon: 'img/favicon.ico',
 
